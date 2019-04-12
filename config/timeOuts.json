@@ -1,0 +1,16 @@
+{
+  "timeOuts": {
+    "eternal": 60000,
+    "enormous": 30000,
+    "long": 20000,
+    "medium": 10000,
+    "short": 3000
+  },
+
+  "intervals": {
+    "enormous": 5000,
+    "long": 3000,
+    "medium": 2000,
+    "short": 500
+  }
+}
